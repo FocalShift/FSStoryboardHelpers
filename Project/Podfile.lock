@@ -1,0 +1,19 @@
+PODS:
+  - FSClassExtensions (1.2.0):
+    - FSClassExtensions/Shared
+  - FSClassExtensions/Shared (1.2.0)
+  - FSStoryboardHelpers (1.0.0):
+    - FSClassExtensions (~> 1.0)
+
+DEPENDENCIES:
+  - FSStoryboardHelpers (from `../FSStoryboardHelpers.podspec`)
+
+EXTERNAL SOURCES:
+  FSStoryboardHelpers:
+    :path: ../FSStoryboardHelpers.podspec
+
+SPEC CHECKSUMS:
+  FSClassExtensions: 30aafecbee488c2dc8b4c1afcb92d5068f02fe32
+  FSStoryboardHelpers: 400ff73febfd9f223bb880db9522cc732905d7de
+
+COCOAPODS: 0.27.1

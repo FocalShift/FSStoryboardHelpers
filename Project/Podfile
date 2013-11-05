@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+
+pod "FSStoryboardHelpers", :path => "../FSStoryboardHelpers.podspec"
+
